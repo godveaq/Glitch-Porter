@@ -1,0 +1,16 @@
+GLITCH TARAMA RAPORU
+============================================================
+
+Hedef: 127.0.0.1
+Tarama Zamani: 2025-12-28T12:46:36.689459
+Hostname: DESKTOP-HNL7LA3
+OS Tahmini: Windows
+
+Istatistikler:
+  Taranan Port: 2
+  Acik Port: 0
+  Sure: 1.04 seconds
+  Tespit Edilen Guvenlik Aciklari: 0
+
+
+============================================================

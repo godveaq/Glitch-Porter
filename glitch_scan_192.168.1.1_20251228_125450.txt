@@ -1,0 +1,39 @@
+GLITCH TARAMA RAPORU
+============================================================
+
+Hedef: 192.168.1.1
+Tarama Zamani: 2025-12-28T12:54:42.326329
+Hostname: ADSL
+OS Tahmini: Linux/Unix
+
+Istatistikler:
+  Taranan Port: 3
+  Acik Port: 1
+  Sure: 7.74 seconds
+  Tespit Edilen Guvenlik Aciklari: 4
+
+AĞ ANALİZİ:
+  Ağ Aralığı: 192.168.1.0/24
+  Ağ Geçidi: 192.168.1.1
+  Keşfedilen Hostlar: 7
+    - 192.168.1.1
+    - 192.168.1.110
+    - 192.168.1.102
+    - 192.168.1.108
+    - 192.168.1.109
+    - 192.168.1.103
+    - 192.168.1.107
+
+ACIK PORTLAR:
+Port	Protokol	Servis		Banner		Proxy
+--------------------------------------------------------------------------------
+80	tcp		http		HTTP/1.1 400 Bad Request
+Cont...		HTTP Proxy: 192.168.1.1:80
+
+GUVENLIK ACIKLARI:
+  [LOW] Missing Security Header - Clickjacking protection missing
+  [LOW] Missing Security Header - MIME sniffing protection missing
+  [LOW] Missing Security Header - HSTS header missing
+  [LOW] Missing Security Header - CSP header missing
+
+============================================================

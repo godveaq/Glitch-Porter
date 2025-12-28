@@ -1,0 +1,16 @@
+GLİTCH TARAMA RAPORU
+============================================================
+
+Hedef: 127.0.0.1
+Tarama Zamanı: 2025-12-28T12:43:30.763469
+Hostname: DESKTOP-HNL7LA3
+OS Tahmini: Windows
+
+İstatistikler:
+  Taranan Port: 3
+  Açık Port: 0
+  Süre: 1.04 seconds
+  Tespit Edilen Güvenlik Açıkları: 0
+
+
+============================================================

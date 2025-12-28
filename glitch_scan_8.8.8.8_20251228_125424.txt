@@ -1,0 +1,25 @@
+GLITCH TARAMA RAPORU
+============================================================
+
+Hedef: 8.8.8.8
+Tarama Zamani: 2025-12-28T12:54:16.383952
+Hostname: dns.google
+OS Tahmini: Windows
+
+Istatistikler:
+  Taranan Port: 1
+  Acik Port: 1
+  Sure: 7.65 seconds
+  Tespit Edilen Guvenlik Aciklari: 0
+
+AĞ ANALİZİ:
+  Ağ Aralığı: 8.8.8.0/24
+  Keşfedilen Hostlar: 1
+    - 8.8.8.8
+
+ACIK PORTLAR:
+Port	Protokol	Servis		Banner		Proxy
+--------------------------------------------------------------------------------
+53	tcp		domain				Open Port: 8.8.8.8:53
+
+============================================================

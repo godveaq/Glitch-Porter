@@ -1,0 +1,32 @@
+GLITCH TARAMA RAPORU
+============================================================
+
+Hedef: 127.0.0.1
+Tarama Zamani: 2025-12-28T12:53:54.973663
+Hostname: DESKTOP-HNL7LA3
+OS Tahmini: Windows
+
+Istatistikler:
+  Taranan Port: 1
+  Acik Port: 0
+  Sure: 3.04 seconds
+  Tespit Edilen Guvenlik Aciklari: 0
+
+AĞ ANALİZİ:
+  Ağ Aralığı: 127.0.0.0/24
+  Ağ Geçidi: 127.0.0.1
+  Keşfedilen Hostlar: 254
+    - 127.0.0.30
+    - 127.0.0.127
+    - 127.0.0.90
+    - 127.0.0.102
+    - 127.0.0.71
+    - 127.0.0.54
+    - 127.0.0.101
+    - 127.0.0.48
+    - 127.0.0.100
+    - 127.0.0.47
+    ... ve 244 tane daha
+
+
+============================================================
